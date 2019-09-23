@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=T1 Old Footprint=TRANS New Footprint=TrafoSKPT17
+Change Pin Designator/Name:  Old Designator=Q2-1 Old Name=K New Designator =A New Name=3
+Change Pin Designator/Name:  Old Designator=Q2-3 Old Name=A New Designator =K New Name=1
